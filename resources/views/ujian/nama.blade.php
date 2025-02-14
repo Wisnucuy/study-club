@@ -1,0 +1,10 @@
+@extends('ujian.main')
+@section('title', 'Hompage')
+
+@section('konten')
+<div>
+    <h1>Arzis</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate aperiam dolorem, laboriosam accusamus, dignissimos nisi ipsa atque alias beatae tempore repellat illo incidunt optio omnis expedita soluta nemo vitae eaque! Lorem ipsum dolor sit amet consectetur, adipisicing elit. In dolorem placeat porro mollitia expedita! Omnis iste, pariatur eius nesciunt perspiciatis ab deleniti excepturi placeat aperiam consectetur numquam odit, corrupti beatae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, ad nesciunt error quis excepturi rerum at nisi ut amet quasi dolore eveniet magni facere corrupti quam repudiandae voluptatem similique hic. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus cum voluptas, nobis at facere possimus fugit dolorem, ea facilis commodi perspiciatis dolor consectetur, deleniti officia hic inventore deserunt libero dolores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, cupiditate illo. Ratione aliquid dicta numquam saepe id magnam quasi aliquam, cupiditate veritatis, quidem laborum assumenda ducimus, suscipit soluta enim quam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo omnis ad ratione molestias id deleniti, ipsam, laborum ex dolor eaque natus quam corrupti saepe fugiat? Minima corrupti odit eius vel. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, earum porro? Dolor unde, rerum voluptates aspernatur mollitia eos dolore. Labore quos molestiae repellendus, sed eius quas voluptas doloremque quisquam ullam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure sed labore expedita delectus nam ea sunt. Earum nemo nobis impedit, voluptas sint non sapiente modi, optio culpa dolorum laboriosam saepe.</p>
+
+</div>
+@endsection
