@@ -152,4 +152,23 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::resource("/student", StudentController::class);
+Route::resource("/studentssss", StudentController::class);
+
+// Route::get('/products/delete/{id}', function($id){
+//     Product::find($id)->delete([
+//         "code" => 5,
+//         "name" => "produk baru",
+//         "description" => "lebih versi baru",
+//         "quantity" => 20,
+//         "price" => rand(400,450),
+//     ]);
+//     echo "data dengan id $id berhasil dihapus";
+// });
+
+
+Route::get('/apaa', function () {
+    return view('welcome');
+});
+
+
+
